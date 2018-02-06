@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5dda124-4830-412e-b4b8-5f581b5ffc3d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ApplicationServer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/ApplicationServer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <marker date="1517955149566" expanded="true" signature="6:182" ph="..." />
+                <marker date="1517955149566" expanded="true" signature="206:940" ph="{...}" />
+                <marker date="1517955149566" expanded="true" signature="261:938" ph="{...}" />
+                <marker date="1517955149566" expanded="true" signature="415:536" ph="{...}" />
+                <marker date="1517955149566" expanded="true" signature="577:868" ph="{...}" />
+                <marker date="1517955149566" expanded="true" signature="697:858" ph="{...}" />
+                <marker date="1517955149566" expanded="true" signature="912:932" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BotCharacter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Models/BotCharacter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1517955149706" expanded="false" signature="6:61" ph="..." />
+                <marker date="1517955149706" expanded="true" signature="92:943" ph="{...}" />
+                <marker date="1517955149706" expanded="true" signature="136:941" ph="{...}" />
+                <marker date="1517955149706" expanded="true" signature="331:351" ph="{...}" />
+                <marker date="1517955149706" expanded="true" signature="438:560" ph="{...}" />
+                <marker date="1517955149706" expanded="true" signature="600:685" ph="{...}" />
+                <marker date="1517955149706" expanded="true" signature="722:935" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Character.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Models/Character.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding>
+                <marker date="1517955149644" expanded="true" signature="6:40" ph="..." />
+                <marker date="1517955149644" expanded="true" signature="71:1063" ph="{...}" />
+                <marker date="1517955149644" expanded="true" signature="114:1061" ph="{...}" />
+                <marker date="1517955149644" expanded="true" signature="651:754" ph="{...}" />
+                <marker date="1517955149644" expanded="true" signature="790:842" ph="{...}" />
+                <marker date="1517955149644" expanded="true" signature="873:924" ph="{...}" />
+                <marker date="1517955149644" expanded="true" signature="964:1055" ph="{...}" />
+                <marker date="1517955149644" expanded="true" signature="1033:1045" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnityClient.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Networking/UnityClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <marker date="1517955149784" expanded="true" signature="6:202" ph="..." />
+                <marker date="1517955149784" expanded="true" signature="237:5361" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="293:5359" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="727:1197" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="1313:2367" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="1444:1628" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="1595:1614" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="1984:2306" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="2060:2292" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="2446:2900" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="2575:2839" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="2651:2825" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="2938:3205" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="3244:3534" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="3569:3644" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="3724:4178" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="3853:4117" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="3929:4103" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="4244:4305" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="4423:5149" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="4485:5139" ph="{...}" />
+                <marker date="1517955149784" expanded="true" signature="5245:5353" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BattleEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Networking/Common/BattleEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <folding>
+                <marker date="1517955149738" expanded="true" signature="29:187" ph="{...}" />
+                <marker date="1517955149738" expanded="true" signature="69:185" ph="{...}" />
+                <marker date="1517955149738" expanded="true" signature="109:179" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDB.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Storage/UserDB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding>
+                <marker date="1517955149583" expanded="true" signature="80:1317" ph="{...}" />
+                <marker date="1517955149583" expanded="true" signature="106:1315" ph="{...}" />
+                <marker date="1517955149583" expanded="true" signature="328:904" ph="{...}" />
+                <marker date="1517955149583" expanded="true" signature="434:725" ph="{...}" />
+                <marker date="1517955149583" expanded="true" signature="617:711" ph="{...}" />
+                <marker date="1517955149583" expanded="true" signature="756:807" ph="{...}" />
+                <marker date="1517955149583" expanded="true" signature="931:991" ph="{...}" />
+                <marker date="1517955149583" expanded="true" signature="1019:1080" ph="{...}" />
+                <marker date="1517955149583" expanded="true" signature="1108:1309" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Storage/UserManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <marker date="1517955149613" expanded="true" signature="45:590" ph="{...}" />
+                <marker date="1517955149613" expanded="true" signature="76:588" ph="{...}" />
+                <marker date="1517955149613" expanded="true" signature="162:212" ph="{...}" />
+                <marker date="1517955149613" expanded="true" signature="265:327" ph="{...}" />
+                <marker date="1517955149613" expanded="true" signature="362:428" ph="{...}" />
+                <marker date="1517955149613" expanded="true" signature="474:582" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventCodes.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Networking/Common/EventCodes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1517955149550" expanded="true" signature="22:183" ph="{...}" />
+                <marker date="1517955149550" expanded="true" signature="58:181" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InitEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Networking/Common/InitEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1517955149753" expanded="true" signature="29:185" ph="{...}" />
+                <marker date="1517955149753" expanded="true" signature="65:183" ph="{...}" />
+                <marker date="1517955149753" expanded="true" signature="105:177" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestCodes.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BattleServer/Networking/Common/RequestCodes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1517931497222" expanded="true" signature="22:146" ph="{...}" />
+                <marker date="1517931497222" expanded="true" signature="60:144" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BattleServer/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/9d/b8c51b6f/ApplicationBase.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71E0D042-CA0A-405E-A629-7B2703D2273D/e6/f41d6b87/Path.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/d0/7c697ead/EventData.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/fb/2b897985/SendParameters.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/8f/604672d3/ClientPeer.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/log4net.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/3b/29f95a2d/PeerBase.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/ApplicationServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71E0D042-CA0A-405E-A629-7B2703D2273D/a1/41135de1/Void.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Networking/Common/EventCodes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Networking/Common/InitEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Networking/Common/RequestCodes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Networking/Common/BattleEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Networking/UnityClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Models/BotCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Models/Character.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Storage/UserDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleServer/Storage/UserManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BattleServer/GameEvent.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/BattleEvent.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/UserManager.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/EventCodes.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/RequestCodes.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/UserDB.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/InitEvent.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/Character.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/BotCharacter.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/UnityClient.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/ApplicationServer.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/Models/BotCharacter.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/Models/Character.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/Networking/UnityClient.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/Networking/Common/BattleEvent.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/Storage/UserDB.cs" />
+        <option value="$PROJECT_DIR$/BattleServer/Storage/UserManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1132" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BattleServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BattleServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BattleServer" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BattleServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BattleServer" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BattleServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BattleServer" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Networking" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BattleServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BattleServer" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Networking" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Common" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BattleServer (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BattleServer" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Storage" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BattleServer/Networking" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5dda124-4830-412e-b4b8-5f581b5ffc3d" name="Default" comment="" />
+      <created>1517431610989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517431610989</updated>
+      <workItem from="1517431616427" duration="6299000" />
+      <workItem from="1517503723669" duration="18971000" />
+      <workItem from="1517915861777" duration="4188000" />
+      <workItem from="1517924029972" duration="11020000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40478000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="951" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19270833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12083333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32816228" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816228" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BattleServer/UnityClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="7" lean-forward="false" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/InitEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71E0D042-CA0A-405E-A629-7B2703D2273D/a1/41135de1/Void.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Character.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/8f/604672d3/ClientPeer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/3b/29f95a2d/PeerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9741">
+          <caret line="573" column="16" lean-forward="false" selection-start-line="573" selection-start-column="16" selection-end-line="573" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/BattleEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/ApplicationServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517955149566" expanded="true" signature="6:182" ph="..." />
+            <marker date="1517955149566" expanded="true" signature="206:940" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="261:938" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="415:536" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="577:868" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="697:858" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="912:932" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/9d/b8c51b6f/ApplicationBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5134">
+          <caret line="302" column="14" lean-forward="false" selection-start-line="302" selection-start-column="14" selection-end-line="302" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/UnityClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="25" lean-forward="false" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71E0D042-CA0A-405E-A629-7B2703D2273D/a1/41135de1/Void.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Character.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/BotCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/8f/604672d3/ClientPeer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/fb/2b897985/SendParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/d0/7c697ead/EventData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/3b/29f95a2d/PeerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="134" column="116" lean-forward="false" selection-start-line="134" selection-start-column="116" selection-end-line="134" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/ApplicationServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517955149566" expanded="true" signature="6:182" ph="..." />
+            <marker date="1517955149566" expanded="true" signature="206:940" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="261:938" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="415:536" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="577:868" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="697:858" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="912:932" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/UnityClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/3b/29f95a2d/PeerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/log4net.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/log4net.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="27" lean-forward="false" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/d0/7c697ead/EventData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71E0D042-CA0A-405E-A629-7B2703D2273D/a1/41135de1/Void.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/9d/b8c51b6f/ApplicationBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="302" column="14" lean-forward="false" selection-start-line="302" selection-start-column="14" selection-end-line="302" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71E0D042-CA0A-405E-A629-7B2703D2273D/e6/f41d6b87/Path.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/8f/604672d3/ClientPeer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/3b/29f95a2d/PeerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="573" column="16" lean-forward="false" selection-start-line="573" selection-start-column="16" selection-end-line="573" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/BattleEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D2BD12E5-B08C-4FBD-B39B-5D5E6EC9BBF5/fb/2b897985/SendParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/UserManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Character.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/InitEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/EventCodes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/RequestCodes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/BotCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" column="23" lean-forward="false" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/UnityClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/UserDB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517955011894" expanded="false" signature="6:62" ph="..." />
+            <marker date="1517955011894" expanded="true" signature="64:250" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1517955011894" expanded="true" signature="579:787" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1517955011894" expanded="true" signature="962:1287" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/ApplicationServer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <marker date="1517955149566" expanded="true" signature="6:182" ph="..." />
+            <marker date="1517955149566" expanded="true" signature="206:940" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="261:938" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="415:536" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="577:868" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="697:858" ph="{...}" />
+            <marker date="1517955149566" expanded="true" signature="912:932" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Models/BotCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1517955149706" expanded="false" signature="6:61" ph="..." />
+            <marker date="1517955149706" expanded="true" signature="92:943" ph="{...}" />
+            <marker date="1517955149706" expanded="true" signature="136:941" ph="{...}" />
+            <marker date="1517955149706" expanded="true" signature="331:351" ph="{...}" />
+            <marker date="1517955149706" expanded="true" signature="438:560" ph="{...}" />
+            <marker date="1517955149706" expanded="true" signature="600:685" ph="{...}" />
+            <marker date="1517955149706" expanded="true" signature="722:935" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Models/Character.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <marker date="1517955149644" expanded="true" signature="6:40" ph="..." />
+            <marker date="1517955149644" expanded="true" signature="71:1063" ph="{...}" />
+            <marker date="1517955149644" expanded="true" signature="114:1061" ph="{...}" />
+            <marker date="1517955149644" expanded="true" signature="651:754" ph="{...}" />
+            <marker date="1517955149644" expanded="true" signature="790:842" ph="{...}" />
+            <marker date="1517955149644" expanded="true" signature="873:924" ph="{...}" />
+            <marker date="1517955149644" expanded="true" signature="964:1055" ph="{...}" />
+            <marker date="1517955149644" expanded="true" signature="1033:1045" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Networking/UnityClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1517955149784" expanded="true" signature="6:202" ph="..." />
+            <marker date="1517955149784" expanded="true" signature="237:5361" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="293:5359" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="727:1197" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="1313:2367" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="1444:1628" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="1595:1614" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="1984:2306" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="2060:2292" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="2446:2900" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="2575:2839" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="2651:2825" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="2938:3205" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="3244:3534" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="3569:3644" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="3724:4178" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="3853:4117" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="3929:4103" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="4244:4305" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="4423:5149" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="4485:5139" ph="{...}" />
+            <marker date="1517955149784" expanded="true" signature="5245:5353" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Networking/Common/EventCodes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517955149550" expanded="true" signature="22:183" ph="{...}" />
+            <marker date="1517955149550" expanded="true" signature="58:181" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Networking/Common/InitEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517955149753" expanded="true" signature="29:185" ph="{...}" />
+            <marker date="1517955149753" expanded="true" signature="65:183" ph="{...}" />
+            <marker date="1517955149753" expanded="true" signature="105:177" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Networking/Common/RequestCodes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517931497222" expanded="true" signature="22:146" ph="{...}" />
+            <marker date="1517931497222" expanded="true" signature="60:144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Networking/Common/BattleEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding>
+            <marker date="1517955149738" expanded="true" signature="29:187" ph="{...}" />
+            <marker date="1517955149738" expanded="true" signature="69:185" ph="{...}" />
+            <marker date="1517955149738" expanded="true" signature="109:179" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Storage/UserDB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <marker date="1517955149583" expanded="true" signature="80:1317" ph="{...}" />
+            <marker date="1517955149583" expanded="true" signature="106:1315" ph="{...}" />
+            <marker date="1517955149583" expanded="true" signature="328:904" ph="{...}" />
+            <marker date="1517955149583" expanded="true" signature="434:725" ph="{...}" />
+            <marker date="1517955149583" expanded="true" signature="617:711" ph="{...}" />
+            <marker date="1517955149583" expanded="true" signature="756:807" ph="{...}" />
+            <marker date="1517955149583" expanded="true" signature="931:991" ph="{...}" />
+            <marker date="1517955149583" expanded="true" signature="1019:1080" ph="{...}" />
+            <marker date="1517955149583" expanded="true" signature="1108:1309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BattleServer/Storage/UserManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1517955149613" expanded="true" signature="45:590" ph="{...}" />
+            <marker date="1517955149613" expanded="true" signature="76:588" ph="{...}" />
+            <marker date="1517955149613" expanded="true" signature="162:212" ph="{...}" />
+            <marker date="1517955149613" expanded="true" signature="265:327" ph="{...}" />
+            <marker date="1517955149613" expanded="true" signature="362:428" ph="{...}" />
+            <marker date="1517955149613" expanded="true" signature="474:582" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
